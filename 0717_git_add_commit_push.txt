@@ -1,3 +1,11 @@
+. 프롬프트 엔지니어링 실습
+4.1 명시적 지시
+4.2 퓨샷 프롬프트 (Few-Shot Prompt)
+4.3 생각의 사슬 (Chain-of-Thought)
+4.4 자기 일관성 (Self-Consistency)
+4.5 생각의 나무, 사고의 구조도 (Tree-of-Thought)
+4.6 인터넷 검색 기반 응답
+
 add commit push
 git add .
 git commit -m ''
